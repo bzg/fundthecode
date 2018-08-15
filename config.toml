@@ -1,0 +1,45 @@
+title = "Fund The Code!"
+baseURL = "https://fundthecode.org"
+tags = ["funding", "free software", "open source", "event"]
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = ""
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+    tagline = "Fund The Code!"
+    author = "Bastien Guerry"
+    description = "Free Software Does Not Grow On Trees."
+    logoBig = "/images/fundthecode-logo.png"
+    logoSmall = "/images/fundthecode-logo.png"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/fundthecode-logo.png"
+    # twitter = "bzg2"
+    # linkedin = ""
+    # github = "bzg"
+    # facebook = ""
+    email = "bzg@bzg.fr"
+    # googleTagManager = ""
+    highlightJS = false
+    copyright = false
+    credit = true
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+[[menu.main]]
+    name = "About"
+    url  = "/#about"
+    weight = 1
+[[menu.main]]
+    name = "Blog"
+    url  = "/#blog"
+    weight = 3
+[[menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 4
