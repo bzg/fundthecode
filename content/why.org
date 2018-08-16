@@ -12,4 +12,4 @@ It is a nice way to support Free and Open-Source projects, to meet
 with developers and to sensibilise everyone about the need for better
 sustainability in FOSS.
 
-Previous events where called "[[https://hackadon.org/][Hackadon]]".
+Previous events (2013, 2014 and 2015) where called [[https://hackadon.org/][Hackadons]].
