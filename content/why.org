@@ -1,0 +1,15 @@
+#+title: Why?
+#+date: 2018-08-15
+
+Fund The Code is about *funding* Free and Open Source Softwares during *live events*.
+
+Fund The Code Organizers gather sponsors, FOSS maintainers and a
+general audience.  The money from the sponsors is distributed to the
+audience who donate it back to maintainers after they present their
+projects.
+
+It is a nice way to support Free and Open-Source projects, to meet
+with developers and to sensibilise everyone about the need for better
+sustainability in FOSS.
+
+Previous events where called "[[https://hackadon.org/][Hackadon]]".

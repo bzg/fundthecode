@@ -1,0 +1,5 @@
+#+title: Save the date!
+#+date: 2018-08-16
+
+The next "Fund The Code" event will take place in Paris, *4th of
+december 2018*.
