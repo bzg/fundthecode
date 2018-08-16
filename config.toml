@@ -5,24 +5,20 @@ languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
-googleAnalytics = ""
-disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Author]
+    name = "Bastien Guerry"
+    profile = "https://bzg.fr"
 
 [Params]
     tagline = "Fund The Code!"
     author = "Bastien Guerry"
-    description = "Free Software Does Not Grow On Trees."
     logoBig = "/images/fundthecode-logo.png"
     logoSmall = "/images/fundthecode-logo-small.png"
     favicon = "favicon.ico"
     opengraphImage = "/images/fundthecode-logo.png"
-    # twitter = "bzg2"
-    # linkedin = ""
-    # github = "bzg"
-    # facebook = ""
     email = "contact@fundthecode.org"
-    # googleTagManager = ""
     highlightJS = false
     copyright = false
     credit = true
@@ -31,15 +27,48 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     cacheBustJS = false
     ajaxFormspree = true
 
-[[menu.main]]
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    weight = 1
+    [languages.en.params]
+      description = "Free Software Does Not Grow On Trees."
+  [languages.fr]
+    weight = 2
+    [languages.fr.params]
+      description = "Le logiciel libre ne pousse pas dans les arbres."
+
+[[languages.en.menu.main]]
     name = "Why?"
     url  = "/why"
     weight = 1
-[[menu.main]]
+[[languages.en.menu.main]]
     name = "Blog"
     url  = "/#blog"
-    weight = 3
-[[menu.main]]
+    weight = 2
+[[languages.en.menu.main]]
     name = "Contact"
     url  = "/#contact"
+    weight = 3
+[[languages.en.menu.main]]
+    name = "En français SVP"
+    url  = "/fr"
+    weight = 4
+
+[[languages.fr.menu.main]]
+    name = "Pourquoi ?"
+    url  = "/fr/why"
+    weight = 1
+[[languages.fr.menu.main]]
+    name = "Blog"
+    url  = "/#blog"
+    weight = 2
+[[languages.fr.menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 3
+[[languages.fr.menu.main]]
+    name = "English, please"
+    url  = "/"
     weight = 4
