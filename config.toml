@@ -52,7 +52,7 @@ defaultContentLanguage = "en"
     url  = "/#contact"
     weight = 3
 [[languages.en.menu.main]]
-    name = "En français SVP"
+    name = "> FR"
     url  = "/fr"
     weight = 4
 
@@ -69,6 +69,6 @@ defaultContentLanguage = "en"
     url  = "/#contact"
     weight = 3
 [[languages.fr.menu.main]]
-    name = "English, please"
+    name = "> EN"
     url  = "/"
     weight = 4
