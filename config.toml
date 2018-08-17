@@ -29,16 +29,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 defaultContentLanguage = "fr"
 
 [languages]
-  [languages.en]
-    weight = 1
-    [languages.en.params]
-      tagline = "Open Source Does Not Grow on Trees."
-      description = "Fund The Code: Donate to Free Software Through Live Events"
   [languages.fr]
-    weight = 2
+    weight = 1
     [languages.fr.params]
       tagline = "Le logiciel libre ne pousse pas dans les arbres."
       description = "Soirées de dons pour des logiciels libres"
+  [languages.en]
+    weight = 2
+    [languages.en.params]
+      tagline = "Open Source Does Not Grow on Trees."
+      description = "Fund The Code: Donate to Free Software Through Live Events"
 
 [[languages.en.menu.main]]
     name = "Why?"
@@ -54,12 +54,12 @@ defaultContentLanguage = "fr"
     weight = 3
 [[languages.en.menu.main]]
     name = "> FR"
-    url  = "/fr"
+    url  = "/"
     weight = 4
 
 [[languages.fr.menu.main]]
     name = "Pourquoi ?"
-    url  = "/fr/why"
+    url  = "/pourquoi"
     weight = 1
 [[languages.fr.menu.main]]
     name = "Blog"
@@ -71,5 +71,5 @@ defaultContentLanguage = "fr"
     weight = 3
 [[languages.fr.menu.main]]
     name = "> EN"
-    url  = "/"
+    url  = "/en"
     weight = 4
