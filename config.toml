@@ -12,7 +12,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     profile = "https://bzg.fr"
 
 [Params]
-    tagline = "Fund The Code!"
     author = "Bastien Guerry"
     logoBig = "/images/fundthecode-logo.png"
     logoSmall = "/images/fundthecode-logo-small.png"
@@ -27,17 +26,19 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     cacheBustJS = false
     ajaxFormspree = true
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "fr"
 
 [languages]
   [languages.en]
     weight = 1
     [languages.en.params]
-      description = "Free Software Does Not Grow On Trees."
+      tagline = "Open Source Does Not Grow on Trees."
+      description = "Fund The Code: Donate to Free Software Through Live Events"
   [languages.fr]
     weight = 2
     [languages.fr.params]
-      description = "Le logiciel libre ne pousse pas dans les arbres."
+      tagline = "Le logiciel libre ne pousse pas dans les arbres."
+      description = "Soirées de dons pour des logiciels libres"
 
 [[languages.en.menu.main]]
     name = "Why?"
