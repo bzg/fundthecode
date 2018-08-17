@@ -1,4 +1,4 @@
-#+title: Save the date!
+#+title: Notez la date !
 #+date: 2018-08-16
 
 Le prochain événement « Fund The Code » se tiendra à Paris le 4

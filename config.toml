@@ -1,11 +1,13 @@
 title = "Fund The Code!"
 baseURL = "https://fundthecode.org"
 tags = ["funding", "free software", "open source", "event"]
-languageCode = "en-US"
+languageCode = "fr-Fr"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+defaultContentLanguage = "fr"
 
 [Author]
     name = "Bastien Guerry"
@@ -25,8 +27,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     cacheBustCSS = false
     cacheBustJS = false
     ajaxFormspree = true
-
-defaultContentLanguage = "fr"
 
 [languages]
   [languages.fr]
