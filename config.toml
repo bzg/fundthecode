@@ -49,13 +49,17 @@ defaultContentLanguage = "fr"
     url  = "/#blog"
     weight = 2
 [[languages.en.menu.main]]
+    name = "FAQ"
+    url  = "/faq"
+    weight = 3
+[[languages.en.menu.main]]
     name = "Contact"
     url  = "/#contact"
-    weight = 3
+    weight = 4
 [[languages.en.menu.main]]
     name = "> FR"
     url  = "/"
-    weight = 4
+    weight = 5
 
 [[languages.fr.menu.main]]
     name = "Pourquoi ?"
@@ -66,10 +70,14 @@ defaultContentLanguage = "fr"
     url  = "/#blog"
     weight = 2
 [[languages.fr.menu.main]]
+    name = "FAQ"
+    url  = "/faq"
+    weight = 3
+[[languages.fr.menu.main]]
     name = "Contact"
     url  = "/#contact"
-    weight = 3
+    weight = 4
 [[languages.fr.menu.main]]
     name = "> EN"
     url  = "/en"
-    weight = 4
+    weight = 5
