@@ -2,7 +2,7 @@
 #+date: 2018-08-16
 
 The next "Fund The Code" event will take place in Paris, in *january
-2018*.
+2019*.
 
 Please [[/#contact][contact us]] if you'd like to receive an email when the date is
 set.

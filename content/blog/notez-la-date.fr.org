@@ -1,8 +1,8 @@
-#+title: Notez la date : janvier 2018 !
+#+title: Notez la date : janvier 2019 !
 #+date: 2018-08-16
 
 Le prochain événement « Fund The Code » se tiendra au Liberté Living
-Lab en janvier 2018.
+Lab en janvier 2019.
 
 Merci de [[/#contact][nous écrire]] si vous souhaitez être informé·e dès que la date
 sera fixée.
