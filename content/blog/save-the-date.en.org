@@ -1,5 +1,8 @@
-#+title: Save the date: Dec. 4th at 6pm at the Liberté Living Lab!
+#+title: Save the date: january 2018 at the Liberté Living Lab!
 #+date: 2018-08-16
 
-The next "Fund The Code" event will take place in Paris, *4th of
-december 2018*.
+The next "Fund The Code" event will take place in Paris, in *january
+2018*.
+
+Please [[/#contact][contact us]] if you'd like to receive an email when the date is
+set.

@@ -1,8 +1,8 @@
-#+title: Notez la date : le 4 décembre à 18h au Liberté Living Lab !
+#+title: Notez la date : janvier 2018 !
 #+date: 2018-08-16
 
-Le prochain événement « Fund The Code » se tiendra à Paris le 4
-décembre 2018 au Liberté Living Lab de 18h à 23h.
+Le prochain événement « Fund The Code » se tiendra au Liberté Living
+Lab en janvier 2018.
 
-Si vous voulez être sponsor de cet événement, n'hésitez pas à [[/#contact][nous
-écrire]] !
+Merci de [[/#contact][nous écrire]] si vous souhaitez être informé·e dès que la date
+sera fixée.
