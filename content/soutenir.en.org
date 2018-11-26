@@ -1,4 +1,4 @@
-#+title: Your company wants to support the open source ecosystem ?
+#+title: Your company wants to support the free software movement?
 #+date: 2018-11-24
 
 /Fund the code/ is about *funding* free softwares during *live events*.

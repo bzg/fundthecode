@@ -10,9 +10,9 @@ et un public de curieux.  L'argent des sponsors est distribué au
 public qui en fait don aux mainteneurs après que ceux-ci ont présenté
 leurs projets.
 
-C'est une façon sympathique de soutenir les logiciels libres et open
-source, de rencontrer des développeurs et de sensibiliser chacun sur
-le besoin d'une soutenabilité plus pérenne dans le monde du libre.
+C'est une façon sympathique de soutenir les logiciels libres, de
+rencontrer des développeurs et de sensibiliser chacun sur le besoin
+d'une soutenabilité plus pérenne dans le monde du libre.
 
 Les événements précédents (2013, 2014 and 2015) étaient appelés
 [[https://hackadon.org/][Hackadons]].

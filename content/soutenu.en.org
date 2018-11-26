@@ -1,8 +1,7 @@
 #+title: You want to collect donations for a free software you contribute to?
 #+date: 2018-11-24
 
-/Fund the code/ is about *funding* Free and Open Source Softwares during
-*live events*.
+/Fund the code/ is about *funding* free softwares during *live events*.
 
 You want to present a *free software* you contribute to and *collect
 donations* for it?  Please fill in this form!
