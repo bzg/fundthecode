@@ -1,5 +1,8 @@
-#+title: En savoir plus sur /Fund the code/
+#+title: À propos de Fund the code
 #+date: 2018-11-24
+
+/Fund the code/ contribue au *financement de logiciels libres* lors de
+soirées conviviales.
 
 Nous maintenons une [[/faq][foire aux questions]].
 

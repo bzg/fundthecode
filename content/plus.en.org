@@ -1,5 +1,7 @@
-#+title: More about /Fund the code/
+#+title: About Fund the code
 #+date: 2018-11-24
+
+/Fund the code/ is about *funding* free softwares during *live events*.
 
 We maintain a list of [[/faq][frequently asked questions]].
 
