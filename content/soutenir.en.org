@@ -1,0 +1,13 @@
+#+title: Your company wants to support the open source ecosystem ?
+#+date: 2018-11-24
+
+/Fund the code/ is about *funding* free softwares during *live events*.
+
+Free softwares are pitched by one or more active contributors and the
+audience make donations for their favorite projects, using the money
+the sponsors gave to us.
+
+You want to *sponsor the event*?  Please fill in this form.
+
+Don't hesitate to [[/#contact][reach us]] to ask any question you may have or to tell
+us more about your expectations.

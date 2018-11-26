@@ -1,10 +1,10 @@
 #+title: Pourquoi ?
 #+date: 2018-08-15
 
-Fund The Code contribue au *financement de logiciels libres* lors de
+/Fund the code/ contribue au *financement de logiciels libres* lors de
 soirées conviviales.
 
-Les organisateurs d'un événement « Fund The Code » mobilisent des
+Les organisateurs d'un événement /Fund the code/ mobilisent des
 entreprises sponsors, des mainteneurs de projets de logiciels libres
 et un public de curieux.  L'argent des sponsors est distribué au
 public qui en fait don aux mainteneurs après que ceux-ci ont présenté

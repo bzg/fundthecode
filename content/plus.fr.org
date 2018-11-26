@@ -1,0 +1,15 @@
+#+title: En savoir plus sur /Fund the code/
+#+date: 2018-11-24
+
+Nous maintenons une [[/faq][foire aux questions]].
+
+Nous publions des nouvelles de l'événement sur [[/#blog][le blog]].
+
+Pour le reste, vous pouvez [[/#contact][nous écrire]].
+
+L'événement /Fund the code/ du 22 janvier 2019 est organisé par
+[[http://www.withoutmodel.com][withoutmodel.com]] et accueilli par le [[http://liberte.paris][Liberté Living Lab]].
+
+[[file:/images/withoutmodel.jpg]]
+
+[[file:/images/liberte-living-lab.jpg]]

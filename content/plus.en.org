@@ -1,0 +1,17 @@
+#+title: More about /Fund the code/
+#+date: 2018-11-24
+
+We maintain a list of [[/faq][frequently asked questions]].
+
+We publish news about /Fund the code/ on our [[/#blog][blog]].
+
+For the rest, you can [[/#contact][reach us here]].
+
+The /Fund the code/ event on January, 22nd 2019 is organized by
+[[http://www.withoutmodel.com][withoutmodel.com]] and hosted by the [[http://liberte.paris][Liberté Living Lab]].
+
+[[file:/images/withoutmodel.jpg]]
+
+[[file:/images/liberte-living-lab.jpg]]
+
+

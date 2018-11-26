@@ -41,20 +41,20 @@ defaultContentLanguage = "fr"
       description = "Fund The Code: Donate to Free Software Through Live Events"
 
 [[languages.en.menu.main]]
-    name = "Why?"
-    url  = "/why"
+    name = "Receive donations"
+    url  = "/en/soutenu"
     weight = 1
 [[languages.en.menu.main]]
-    name = "Blog"
-    url  = "/#blog"
+    name = "Sponsor"
+    url  = "/en/soutenir"
     weight = 2
 [[languages.en.menu.main]]
-    name = "FAQ"
-    url  = "/faq"
+    name = "Join the event"
+    url  = "/en/venir"
     weight = 3
 [[languages.en.menu.main]]
-    name = "Contact"
-    url  = "/#contact"
+    name = "More"
+    url  = "/en/plus"
     weight = 4
 [[languages.en.menu.main]]
     name = "> FR"
@@ -62,20 +62,20 @@ defaultContentLanguage = "fr"
     weight = 5
 
 [[languages.fr.menu.main]]
-    name = "Pourquoi ?"
-    url  = "/pourquoi"
+    name = "Être soutenu"
+    url  = "/soutenu"
     weight = 1
 [[languages.fr.menu.main]]
-    name = "Blog"
-    url  = "/#blog"
+    name = "Soutenir"
+    url  = "/soutenir"
     weight = 2
 [[languages.fr.menu.main]]
-    name = "FAQ"
-    url  = "/faq"
+    name = "Venir"
+    url  = "/venir"
     weight = 3
 [[languages.fr.menu.main]]
-    name = "Contact"
-    url  = "/#contact"
+    name = "Plus"
+    url  = "/plus"
     weight = 4
 [[languages.fr.menu.main]]
     name = "> EN"
