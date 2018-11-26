@@ -1,15 +1,12 @@
-#+title: Venir soutenir des logiciels libres !
-#+date: 2018-08-15
+#+title: Come and support the free software movement!
+#+date: 2018-11-24
 
-/Fund the code/ contribue au *financement de logiciels libres* lors de
-soirées conviviales.
+/Fund the code/ is about *funding* free softwares during *live events*.
 
-Vous souhaitez découvrir des logiciels libres, rencontrer ceux qui y
-contribuent au jour le jour et rediriger vers vos projets préférés
-l'argent que nous collectons auprès des sponsors ?
+You want to discover free softwares, meet active contributors and make
+donations to your favorite projects with the money sponsors give us?
 
-Vous êtes au bon endroit !  Merci de remplir ce formulaire pour nous
-indiquer que vous venez.
+You are in the right place!  Please fill in this form to participate.
 
-N'hésitez pas non à [[/#contact][nous écrire]] pour nous poser toutes vos questions
-et nous faire part de vos attentes.
+Don't hesitate to [[/#contact][reach us]] to ask any question you may have or to tell
+us more about your expectations.
