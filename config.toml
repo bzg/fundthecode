@@ -37,24 +37,24 @@ defaultContentLanguage = "fr"
   [languages.en]
     weight = 2
     [languages.en.params]
-      tagline = "Open Source Does Not Grow on Trees."
-      description = "Fund The Code: Donate to Free Software Through Live Events"
+      tagline = "Free Softwares Do Not Grow on Trees."
+      description = "Fund The Code: Donate to Free Softwares Through Live Events"
 
 [[languages.en.menu.main]]
-    name = "Receive donations"
-    url  = "/en/soutenu"
+    name = "Get donations"
+    url  = "/en/receive"
     weight = 1
 [[languages.en.menu.main]]
-    name = "Sponsor"
-    url  = "/en/soutenir"
+    name = "Sponsor us"
+    url  = "/en/sponsor"
     weight = 2
 [[languages.en.menu.main]]
     name = "Join the event"
-    url  = "/en/venir"
+    url  = "/en/join"
     weight = 3
 [[languages.en.menu.main]]
     name = "More"
-    url  = "/en/plus"
+    url  = "/en/more"
     weight = 4
 [[languages.en.menu.main]]
     name = "> FR"
