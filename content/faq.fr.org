@@ -68,10 +68,6 @@ Les trois premiers événements s'appelaient des « Hackadons ».
 - Le premier a eu lieu le 11 décembre 2013 à simplon.co, initié par
   [[https://bzg.fr][Bastien Guerry]] et openfunding.org.
 - Le deuxième a eu lieu le 11 décembre 2014, organisé par
-  [[http://librefunding.org/][librefunding.org]] et
-  [[http://www.withoutmodel.com/][withoutmodel.com]].  Voir
-  [[https://hackadon.org/videos2014.html][les vidéos.]].
+  [[http://librefunding.org/][librefunding.org]] et [[http://www.withoutmodel.com/][withoutmodel.com]].  Voir [[https://hackadon.org/videos2014.html][les vidéos]].
 - Les suivants ont eu lieu 11 décembre 2015, organisés par
-  [[http://www.withoutmodel.com][withoutmodel.com]] et
-  [[http://labomedia.org][labomedia.org]].  Voir
-  [[https://hackadon.org/videos2015.html][les vidéos]].
+  [[http://www.withoutmodel.com][withoutmodel.com]] et [[http://labomedia.org][labomedia.org]].  Voir [[https://hackadon.org/videos2015.html][les vidéos]].
