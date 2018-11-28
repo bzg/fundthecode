@@ -4,7 +4,7 @@
 /Fund the code/ is about *funding* free softwares during *live events*.
 
 You want to present a *free software* you contribute to and *collect
-donations* for it?  Please fill in this form!
+donations* for it?  Please fill in [[https://fundthecode.typeform.com/to/XmXL73][this form]]!
 
 By the end of december, we will select the projects that will be
 presented on January, 22nd at the Liberté Living Lab.

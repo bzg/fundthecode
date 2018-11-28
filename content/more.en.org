@@ -3,14 +3,18 @@
 
 /Fund the code/ is about *funding* free softwares during *live events*.
 
-We maintain a list of [[/faq][frequently asked questions]].
+From here you can directly:
 
-We publish news about /Fund the code/ on our [[/#blog][blog]].
-
-For the rest, you can [[/#contact][reach us here]].
+- [[https://fundthecode.typeform.com/to/XmXL73][Submit a free software project]] to be supported
+- [[https://fundthecode.typeform.com/to/FGRfcl][Become a sponsor]] pour the Fund The Code evening
+- [[https://fundthecode.typeform.com/to/eTIYCa][give your email address]] to confirm your participation
 
 The /Fund the code/ event on January, 22nd 2019 is organized by
 [[http://www.withoutmodel.com][withoutmodel.com]] and hosted by the [[http://liberte.paris][Liberté Living Lab]].
+
+- We maintain a list of [[/faq][frequently asked questions]].
+- We publish news about /Fund the code/ on our [[/#blog][blog]].
+- For the rest, you can [[/#contact][reach us here]].
 
 [[file:/images/withoutmodel.jpg]]
 

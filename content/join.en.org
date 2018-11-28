@@ -6,7 +6,8 @@
 You want to discover free softwares, meet active contributors and make
 donations to your favorite projects with the money sponsors give us?
 
-You are in the right place!  Please fill in this form to participate.
+You are in the right place!  Please [[https://fundthecode.typeform.com/to/eTIYCa][give us your email]] to let us know
+you are coming.
 
 Don't hesitate to [[/#contact][reach us]] to ask any question you may have or to tell
 us more about your expectations.

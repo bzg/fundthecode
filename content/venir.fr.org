@@ -8,7 +8,7 @@ Vous souhaitez découvrir des logiciels libres, rencontrer des
 contributeurs actifs et faire des dons à vos projets préférés avec
 l'argent que les sponsors nous offrent ?
 
-Vous êtes au bon endroit !  Merci de remplir ce formulaire pour nous
+Vous êtes au bon endroit !  Merci de nous [[https://fundthecode.typeform.com/to/eTIYCa][laisser votre courriel]] pour
 indiquer que vous venez.
 
 N'hésitez pas non à [[/#contact][nous écrire]] pour nous poser toutes vos questions

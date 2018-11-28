@@ -7,7 +7,7 @@ Des logiciels libres sont présentés par ceux qui y contribuent
 activement et les participants font des dons à ces projets avec
 l'argent que nous collectons auprès des sponsors.
 
-Vous souhaitez *devenir sponsors* ?  Remplissez ce formulaire.
+Vous souhaitez *devenir sponsors* ?  Remplissez [[https://fundthecode.typeform.com/to/FGRfcl][ce formulaire]].
 
 N'hésitez pas non à [[/#contact][nous écrire]] pour nous poser toutes vos questions
 et nous faire part de vos attentes.
