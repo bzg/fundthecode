@@ -17,6 +17,22 @@ L'événement /Fund the code/ du 22 janvier 2019 est organisé par
 - Nous publions des nouvelles de l'événement sur [[/#blog][le blog]].
 - Pour le reste, vous pouvez [[/#contact][nous écrire]].
 
+*Comment se déroule un événement Fund The Code ?*
+
+1. en amont de la soirée, des soutiens financiers sont mobilisés
+   (entreprises, associations, etc.) ;
+2. pendant l'événement, les porteurs de projets présentent leurs
+   projets et expliquent pourquoi ils sollicitent des dons ;
+3. l'audience est munie d'un moyen de "voter" et de répartir l'argent
+   récolté : billets de jeu, jetons, etc. ;
+4. chaque participant répartit la somme qu'il a reçue en votant pour
+   un ou plusieurs projets présentés ;
+5. les organisateurs annoncent les résultats et s'occupent des
+   transactions (i.e. virements ou autre.)
+
+Toutes les variations sont possibles, tant que la soirée est centrée
+sur les dons faits à des projets libres.
+
 [[file:/images/withoutmodel.jpg]]
 
 [[file:/images/liberte-living-lab.jpg]]

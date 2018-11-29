@@ -32,12 +32,12 @@ defaultContentLanguage = "fr"
   [languages.fr]
     weight = 1
     [languages.fr.params]
-      tagline = "Le logiciel libre ne pousse pas dans les arbres."
+      tagline = "Nous contribuons au financement de logiciels libres lors de soirées conviviales."
       description = "Soirées de dons pour des logiciels libres"
   [languages.en]
     weight = 2
     [languages.en.params]
-      tagline = "Free Softwares Do Not Grow on Trees."
+      tagline = "We contribute to the funding of free softwares during live and welcoming events."
       description = "Fund The Code: Donate to Free Softwares Through Live Events"
 
 [[languages.en.menu.main]]
@@ -62,7 +62,7 @@ defaultContentLanguage = "fr"
     weight = 5
 
 [[languages.fr.menu.main]]
-    name = "Être soutenu"
+    name = "Recevoir"
     url  = "/soutenu"
     weight = 1
 [[languages.fr.menu.main]]

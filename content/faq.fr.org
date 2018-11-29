@@ -1,35 +1,23 @@
 #+title: Foire Aux Questions
-#+date: 2018-08-20
+#+date: 2018-11-29
 
-*** Qu'est-ce qu'un événement /Fund The Code/ ?
+** Qu'est-ce qu'un événement /Fund The Code/ ?
 
 C'est un événement de soutien financier pour des [[https://fr.wikipedia.org/wiki/Logiciel_libre][logiciels libres]] et
-un moment de rencontre entre des mainteneurs et des vrais gens.
+un moment de rencontre entre des mainteneurs, des contributeurs et des
+vrais gens.
 
-*** Quels projets peuvent être soutenus ?
+** Quels projets peuvent être soutenus ?
 
 Tout projet logiciel peut être soutenu pourvu qu'il soit publié sous
 une [[https://fr.wikipedia.org/wiki/Licence_libre][licence libre]].
 
-*** Comment soumettre un projet pour /Fund The Code/ 2018 ?
+** Comment soumettre un projet pour /Fund The Code/ 2018 ?
 
-L'appel à projets durera *du 1er au 20 octobre 2018 à 23h59* et vous
-pourrez soumettre votre projet en ligne.
+L'appel à projets durera *du 1er au 31 décembre 2018 à 23h59* et vous
+pourrez soumettre votre projet [[https://fundthecode.typeform.com/to/XmXL73][via ce formulaire]].
 
-*** Qui peut organiser un événement /Fund The Code/ ?
-
-Toute structure : association, entreprise, etc.  La structure reçoit
-les dons des soutiens financiers et assure leur répartition auprès des
-projets participants.  N'hésitez pas à nous contacter si vous voulez
-en organiser un.
-
-*** Qui peut assister à un événement /Fund The Code/ ?
-
-Tout le monde.  Les événements /Fund The Code/ doivent être des
-événements publics, gratuits, ouverts à tous en fonction des places
-disponibles.
-
-*** Comment se déroule un événement /Fund The Code/ ?
+** Comment se déroule un événement /Fund The Code/ ?
 
 Le format « standard » est celui-ci :
 
@@ -71,3 +59,16 @@ Les trois premiers événements s'appelaient des « Hackadons ».
   [[http://librefunding.org/][librefunding.org]] et [[http://www.withoutmodel.com/][withoutmodel.com]].  Voir [[https://hackadon.org/videos2014.html][les vidéos]].
 - Les suivants ont eu lieu 11 décembre 2015, organisés par
   [[http://www.withoutmodel.com][withoutmodel.com]] et [[http://labomedia.org][labomedia.org]].  Voir [[https://hackadon.org/videos2015.html][les vidéos]].
+** Qui peut organiser un événement /Fund The Code/ ?
+
+Toute structure : association, entreprise, etc.  La structure reçoit
+les dons des soutiens financiers et assure leur répartition auprès des
+projets participants.  N'hésitez pas à nous contacter si vous voulez
+en organiser un.
+
+** Qui peut assister à un événement /Fund The Code/ ?
+
+Tout le monde.  Les événements /Fund The Code/ doivent être des
+événements publics, gratuits, ouverts à tous en fonction des places
+disponibles.
+
