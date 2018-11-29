@@ -13,10 +13,6 @@ D'ici, vous pouvez directement :
 L'événement /Fund the code/ du 22 janvier 2019 est organisé par
 [[http://www.withoutmodel.com][withoutmodel.com]] et accueilli par le [[http://liberte.paris][Liberté Living Lab]].
 
-- Nous maintenons une [[/faq][foire aux questions]].
-- Nous publions des nouvelles de l'événement sur [[/#blog][le blog]].
-- Pour le reste, vous pouvez [[/#contact][nous écrire]].
-
 *Comment se déroule un événement Fund The Code ?*
 
 En amont de la soirée, des soutiens financiers sont mobilisés
@@ -27,6 +23,9 @@ de répartir l'argent récolté : billets de jeu, jetons, etc.  Chaque
 participant répartit la somme qu'il a reçue en votant pour un ou
 plusieurs projets présentés.  Les organisateurs annoncent les
 résultats et s'occupent des transactions (i.e. virements ou autre.)
+
+Pour en savoir plus, n'hésitez pas à consulter la [[/faq][foire aux questions]],
+à suivre [[/#blog][le blog]] ou à [[/#contact][nous écrire]].
 
 [[file:/images/withoutmodel.jpg]]
 
