@@ -4,11 +4,12 @@
 /Fund the code/ contribue au *financement de logiciels libres* lors de soirées conviviales.
 
 Des logiciels libres sont présentés par ceux qui y contribuent
-activement et les participants font des dons à ces projets avec
-l'argent que nous collectons auprès des sponsors (entreprises,
-associations, etc.)
+activement et les participants assistant à la présentation font
+ensuite des dons à ces projets avec l'argent que nous collectons
+auprès des sponsors (entreprises, associations, etc.)
 
-Vous souhaitez *devenir sponsors* ?  Remplissez [[https://fundthecode.typeform.com/to/FGRfcl][ce formulaire]].
+Vous souhaitez *devenir sponsors* ?  Expliquez nous comment et pourquoi
+via [[https://fundthecode.typeform.com/to/FGRfcl][ce formulaire]].
 
 N'hésitez pas non à [[/#contact][nous écrire]] pour nous poser toutes vos questions
 et nous faire part de vos attentes.
