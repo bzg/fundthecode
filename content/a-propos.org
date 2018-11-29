@@ -1,0 +1,31 @@
+#+title: À propos de Fund the code
+#+date: 2018-11-24
+
+/Fund the code/ contribue au *financement de logiciels libres* lors de
+soirées conviviales.  D'ici, vous pouvez directement :
+
+- [[https://fundthecode.typeform.com/to/XmXL73][candidater]] pour que votre logiciel libre soit soutenu
+- [[https://fundthecode.typeform.com/to/FGRfcl][devenir sponsor]] pour la soirée /Fund The Code/
+- [[https://fundthecode.typeform.com/to/eTIYCa][confirmer votre venue]] pour assister à la soirée
+
+L'événement /Fund the code/ du 22 janvier 2019 est organisé par
+[[http://www.withoutmodel.com][withoutmodel.com]] et accueilli par le [[http://liberte.paris][Liberté Living Lab]].
+
+*Comment se déroulera la soirée Fund The Code ?*
+
+En amont de la soirée, des sponsors sont mobilisés (entreprises,
+associations, etc.) et des logiciels libres sont sélectionnés pour
+être présentés par des contributeurs.  Pendant l'événement, ces
+contributeurs présentent leurs projets et expliquent pourquoi ils
+sollicitent des dons.  Les participants sont menus de jetons pour
+répartir l'argent des sponsors : chacun répartit la somme qu'il a
+reçue en votant pour un ou plusieurs projets.  Les organisateurs
+annoncent les résultats et s'occupent des transactions finales
+(i.e. par virements ou autre.)
+
+Pour en savoir plus, consultez la [[/faq][foire aux questions]], suivez [[/#blog][le blog]]
+ou [[/#contact][envoyez-nous un mot]] !
+
+[[file:/images/withoutmodel.jpg]]
+
+[[file:/images/liberte-living-lab.jpg]]

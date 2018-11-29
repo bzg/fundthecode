@@ -3,9 +3,9 @@
 
 ** Qu'est-ce qu'un événement /Fund The Code/ ?
 
-C'est un événement de soutien financier pour des [[https://fr.wikipedia.org/wiki/Logiciel_libre][logiciels libres]] et
-un moment de rencontre entre des mainteneurs, des contributeurs et des
-vrais gens.
+ C'est un événement de soutien financier pour des [[https://fr.wikipedia.org/wiki/Logiciel_libre][logiciels libres]] et
+ un moment de rencontre entre des mainteneurs, des contributeurs et des
+ vrais gens.
 
 ** Quels projets peuvent être soutenus ?
 

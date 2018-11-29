@@ -1,6 +1,0 @@
-#+title: Frequently Asked Questions
-#+date: 2018-08-20
-
-*** TBD
-
-TBD

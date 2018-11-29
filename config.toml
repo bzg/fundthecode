@@ -32,52 +32,22 @@ defaultContentLanguage = "fr"
   [languages.fr]
     weight = 1
     [languages.fr.params]
-      tagline = "Nous contribuons au financement de logiciels libres lors de soirées conviviales."
+      tagline = "Nous soutenons le mouvement du logiciel libre en organisant des soirées conviviales où des libristes présentent leurs contributions à un public qui vote pour répartir l'argent de nos sponsors."
       description = "Soirées de dons pour des logiciels libres"
-  [languages.en]
-    weight = 2
-    [languages.en.params]
-      tagline = "We contribute to the funding of free softwares during live and welcoming events."
-      description = "Fund The Code: Donate to Free Softwares Through Live Events"
-
-[[languages.en.menu.main]]
-    name = "Get donations"
-    url  = "/en/receive"
-    weight = 1
-[[languages.en.menu.main]]
-    name = "Sponsor us"
-    url  = "/en/sponsor"
-    weight = 2
-[[languages.en.menu.main]]
-    name = "Join the event"
-    url  = "/en/join"
-    weight = 3
-[[languages.en.menu.main]]
-    name = "More"
-    url  = "/en/more"
-    weight = 4
-[[languages.en.menu.main]]
-    name = "> FR"
-    url  = "/"
-    weight = 5
 
 [[languages.fr.menu.main]]
-    name = "Recevoir"
-    url  = "/soutenu"
+    name = "Candidater"
+    url  = "/candidater"
     weight = 1
 [[languages.fr.menu.main]]
-    name = "Soutenir"
-    url  = "/soutenir"
+    name = "Sponsoriser"
+    url  = "/sponsoriser"
     weight = 2
 [[languages.fr.menu.main]]
-    name = "Venir"
-    url  = "/venir"
+    name = "Participer"
+    url  = "/participer"
     weight = 3
 [[languages.fr.menu.main]]
-    name = "Plus"
-    url  = "/plus"
+    name = "À propos"
+    url  = "/a-propos"
     weight = 4
-[[languages.fr.menu.main]]
-    name = "> EN"
-    url  = "/en"
-    weight = 5

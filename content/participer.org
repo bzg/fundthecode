@@ -1,0 +1,19 @@
+#+title: Rendez-vous le 22 janvier 2019 à 19h au Liberté Living Lab !
+#+date: 2018-08-15
+
+Vous souhaitez découvrir des logiciels libres, rencontrer des
+contributeurs et faire des dons à vos projets préférés avec l'argent
+de nos sponsors ?  Vous êtes au bon endroit !
+
+Merci de nous [[https://fundthecode.typeform.com/to/eTIYCa][laisser votre courriel]] pour confirmer que vous venez.
+
+Le prochain événement « Fund The Code » se tiendra au [[https://liberte.paris][Liberté Living
+Lab]] (9 rue d'Alexandrie, 75002 Paris) le 22 janvier 2019 à partir de
+19h.
+
+<iframe width="714" height="588" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.3485770821571355%2C48.86714260293412%2C2.352112233638764%2C48.868786974930714&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/48.86796/2.35034">Afficher une carte plus grande</a></small>
+
+Pour en savoir plus sur l'événement, c'est [[/a-propos][par ici]].
+
+N'hésitez pas non à [[/#contact][nous écrire]] pour nous poser toutes vos questions
+et nous faire part de vos attentes.
