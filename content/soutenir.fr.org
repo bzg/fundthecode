@@ -1,11 +1,12 @@
-#+title: Votre entreprise veut soutenir l'écosystème des logiciels libres ?
+#+title: Votre structure veut soutenir l'écosystème des logiciels libres ?
 #+date: 2018-11-24
 
 /Fund the code/ contribue au *financement de logiciels libres* lors de soirées conviviales.
 
 Des logiciels libres sont présentés par ceux qui y contribuent
 activement et les participants font des dons à ces projets avec
-l'argent que nous collectons auprès des sponsors.
+l'argent que nous collectons auprès des sponsors (entreprises,
+associations, etc.)
 
 Vous souhaitez *devenir sponsors* ?  Remplissez [[https://fundthecode.typeform.com/to/FGRfcl][ce formulaire]].
 
