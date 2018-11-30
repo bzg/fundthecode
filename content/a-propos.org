@@ -24,7 +24,7 @@ annoncent les résultats et s'occupent des transactions finales
 (i.e. par virements ou autre.)
 
 Pour en savoir plus, consultez la [[/faq][foire aux questions]], suivez [[/#blog][le blog]]
-ou [[/#contact][envoyez-nous un mot]] !
+ou [[/#contact][envoyez-nous un mot]] !
 
 [[file:/images/withoutmodel.jpg]]
 
