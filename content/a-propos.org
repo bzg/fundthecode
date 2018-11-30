@@ -17,7 +17,7 @@ En amont de la soirée, des sponsors sont mobilisés (entreprises,
 associations, etc.) et des logiciels libres sont sélectionnés pour
 être présentés par des contributeurs.  Pendant l'événement, ces
 contributeurs présentent leurs projets et expliquent pourquoi ils
-sollicitent des dons.  Les participants sont menus de jetons pour
+sollicitent des dons.  Les participants sont munis de jetons pour
 répartir l'argent des sponsors : chacun répartit la somme qu'il a
 reçue en votant pour un ou plusieurs projets.  Les organisateurs
 annoncent les résultats et s'occupent des transactions finales
