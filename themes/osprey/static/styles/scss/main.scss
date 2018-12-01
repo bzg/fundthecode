@@ -39,11 +39,11 @@ nav {
   height: $vertical-rhythm * 2;
   width: 100%;
   background-color: #FFF;
-  position: absolute;
-  bottom: 0;
-  z-index: 100;
   text-align: center;
+  z-index: 1000;
   box-shadow: 0 2px 2px rgba(0, 0, 0, .4 );
+  margin-top: $vertical-rhythm;
+  
   h3 {
     margin: 0;
     font-family: $font-body;
@@ -66,6 +66,7 @@ nav {
   }
 }
 .nav-fixed {
+  margin-top: 0;
   position: fixed;
   top: 0;
   bottom: auto;
