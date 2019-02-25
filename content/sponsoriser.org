@@ -1,25 +1,36 @@
 #+title: Vous voulez soutenir le libre financièrement ?
 #+date: 2018-11-29
 
-*Nous recherchons des sponsors* : associations, entreprises ou toute
-structure voulant soutenir le mouvement du logiciel libre en donnant
-directement à ceux qui y contribuent.
+** Nos sponsors actuels
+
+<center>
+<a style="background-image:none;" href="http://www.kisio.org" target="new"><img src="/images/kisio_digital.png" width="250px" /></a>
+<a style="background-image:none;" href="https://www.xwiki.com" target="new"><img src="/images/xwiki.png" width="250px" /></a><br/>
+<a style="background-image:none;" href="https://www.bluemind.net/" target="new"><img src="/images/bluemind.png" width="250px" /></a>
+<a style="background-image:none;" href="https://www.apidays.co" target="new"><img src="/images/apidays.png" height="150px" /></a>
+</center>
+
+Ainsi que l'association « Les Mainteneurs ».
 
 Lors de la soirée /Fund The Code/, l'argent des sponsors sera remis aux
 participants sous forme de jetons et chaque participant pourra voter
-pour les projets qui l'ont interpelé.
+pour les projets qui l'ont interpelé.  Les organisateurs s'occupent de
+recevoir les dons des sponsors et de faire les dons pour les projets.
 
-Les organisateurs s'occupent de recevoir les dons des sponsors et de
-faire les dons pour les projets.
+** Pourquoi sponsoriser Fund the Code ?
 
-*Vous souhaitez devenir sponsors* ?  Expliquez-nous comment et pourquoi
-via [[https://fundthecode.typeform.com/to/FGRfcl][ce formulaire]] !
-
-*Pourquoi sponsoriser Fund the Code ?*
+*Nous recherchons des sponsors* : associations, entreprises ou toute
+structure voulant soutenir le mouvement du logiciel libre en donnant
+directement à ceux qui y contribuent.
 
 - Votre structure utilise des logiciels libres mais ne sait pas trop par où commencer pour donner : à qui ? comment ? pourquoi ?
 - Vous voulez rencontrer des porteurs de projets libres et les aider directement en connaissant leurs besoins.
 - Vous souhaitez afficher votre soutien au mouvement du libre plus largement qu'en donnant à tel ou tel projet.
 - Vous souhaitez rencontrer d'autres structures qui soutiennent financièrement le logiciel libre pour connaître leurs motivations.
 
-Pour toute question, n'hésitez pas à [[/#contact][nous contacter]] !
+** Vous êtes intéressés ?
+
+*Vous souhaitez devenir sponsors* ?  Expliquez-nous comment et pourquoi
+via [[https://fundthecode.typeform.com/to/FGRfcl][ce formulaire]].
+
+Pour toute question, n'hésitez pas à [[/#contact][nous contacter]].
