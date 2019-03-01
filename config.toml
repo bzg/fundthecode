@@ -99,14 +99,14 @@ theme = "vex-hugo"
       button_text = "Je sponsorise !"
 
   [params.gallery]
-    title = "Ils financent les soirées Fund The Code"
+    title = "Ils financent des soirées Fund The Code"
     # Set the image directory to use as base
     directory = "images/"
     # Set the images to show in the gallery
     images = ["kisio_digital.png", "xwiki.png", "bluemind.png", "apidays.png"]
 
   [params.organizers]
-    title = "Ils organisent les soirées Fund The Code"
+    title = "Ils organisent des soirées Fund The Code"
     # Set the image directory to use as base
     directory = "images/"
     # Set the images to show in the gallery
