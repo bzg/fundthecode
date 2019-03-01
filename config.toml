@@ -46,9 +46,9 @@ theme = "vex-hugo"
   # Features
   [params.features]
     title = "Pourquoi participer ?"
-    [params.features.image]
-      path = "images/watch-2.png"
-      alt = "Watch"
+    # [params.features.image]
+    #   path = ""
+    #   alt = ""
     # Menu at the left of the image
     [[params.features.left]]
       icon = "tf-ion-ios-alarm-outline"

@@ -8,24 +8,24 @@
           <div class="heading">
             <h2>{{ .title }}</h2>
           </div>
-          <div class="col-md-4">
+          <div class="col-md-6">
           {{- range .left }}
             <div class="feature-box">
-              <i class="{{ .icon }}"></i>
+              <!-- <i class="{{ .icon }}"></i> -->
               <h4>{{ .title }}</h4>
               <p>{{ .text }}</p>
             </div>
           {{- end }}
           </div>
-          {{- with .image }}
-          <div class="col-md-4 text-center">
-            <img src="{{ relURL .path }}" alt="{{ .alt }}">
-          </div>
-          {{- end }}
-          <div class="col-md-4">
+          <!-- {{- with .image }} -->
+          <!-- <div class="col-md-4 text-center"> -->
+          <!--   <img src="{{ relURL .path }}" alt="{{ .alt }}"> -->
+          <!-- </div> -->
+          <!-- {{- end }} -->
+          <div class="col-md-6">
           {{- range .right }}
             <div class="feature-box">
-              <i class="{{ .icon }}"></i>
+              <!-- <i class="{{ .icon }}"></i> -->
               <h4>{{ .title }}</h4>
               <p>{{ .text }}</p>
             </div>
