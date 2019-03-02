@@ -1,8 +1,0 @@
-#+title: Notez la date : 19 mars au Liberté Living Lab !
-#+date: 2018-08-16
-
-Le prochain événement « Fund The Code » se tiendra au [[https://liberte.paris][Liberté Living
-Lab]] (9 rue d'Alexandrie, 75002 Paris) le 19 mars à partir de
-19h.
-
-<iframe width="595" height="490" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=2.3485770821571355%2C48.86714260293412%2C2.352112233638764%2C48.868786974930714&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/48.86796/2.35034">Afficher une carte plus grande</a></small>
