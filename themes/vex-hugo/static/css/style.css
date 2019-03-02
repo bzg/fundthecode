@@ -49,7 +49,9 @@ a {
     -webkit-transition: all 0.2s ease-in-out 0s;
     -moz-transition: all 0.2s ease-in-out 0s;
     -o-transition: all 0.2s ease-in-out 0s;
-    transition: all 0.2s ease-in-out 0s; }
+    transition: all 0.2s ease-in-out 0s;
+    color: #015b67;
+}
 
 .mt-100 {
     margin: 40px;
@@ -81,7 +83,8 @@ a,
 a:active,
 a:focus,
 a:active {
-    text-decoration: none; }
+    text-decoration: none;
+}
 
 .section {
     padding: 100px 0; }
@@ -279,7 +282,8 @@ a:active {
     font-size: 18px;
     font-weight: bold; }
 .menu li a:hover, .menu li a:focus {
-    background: none; }
+    background: none;
+    color: #1a8898;}
 
 /*--
     feature start

@@ -35,7 +35,7 @@ theme = "vex-hugo"
   # Header
   [params.header]
     title = "Les logiciels libres ne poussent pas dans les arbres."
-    text = "Nous soutenons le mouvement du logiciel libre en organisant des soirées conviviales où des libristes présentent leurs contributions à un public qui vote pour répartir l'argent de nos sponsors.  Prochaine soirée le 19 mars 2019 à 19h au Liberté Living Lab !"
+    text = "Nous soutenons le mouvement du logiciel libre en organisant des soirées conviviales où des libristes présentent leurs contributions à un public qui vote pour répartir l'argent de nos sponsors.  **Prochaine soirée le 19 mars 2019 à 19h au [Liberté Living Lab](https://www.openstreetmap.org/#map=19/48.86805/2.35040) !**"
     [params.header.image]
       path = "images/fundthecode-logo-vertical-small.png"
       alt = "Watch"
@@ -78,7 +78,7 @@ theme = "vex-hugo"
 
   [params.promo]
     title = "Rendez-vous le 19 mars 2019 à 19h au Liberté Living Lab"
-    text = "Le prochain événement « Fund The Code » se tiendra au Liberté Living Lab (9 rue d'Alexandrie, 75002 Paris) le 19 mars à partir de 19h."
+    text = "Le prochain événement « Fund The Code » se tiendra au Liberté Living Lab ([9 rue d'Alexandrie, 75002 Paris](https://www.openstreetmap.org/#map=19/48.86805/2.35040)) le 19 mars à partir de 19h."
     [params.promo.image]
       path = "images/fundthecode-hand.png"
       alt = "Watch"
@@ -101,16 +101,20 @@ theme = "vex-hugo"
   [params.gallery]
     title = "Ils financent des soirées Fund The Code"
     # Set the image directory to use as base
-    directory = "images/"
+    directory = "images"
     # Set the images to show in the gallery
-    images = ["kisio_digital.png", "xwiki.png", "bluemind.png", "apidays.png"]
+    images = [["kisio_digital.png","http://www.kisio.org"],
+              ["xwiki.png","https://www.xwiki.com/fr"],
+              ["bluemind.png","https://www.bluemind.net"],
+              ["apidays.png","https://www.apidays.co"]]
 
   [params.organizers]
     title = "Ils organisent des soirées Fund The Code"
     # Set the image directory to use as base
     directory = "images/"
     # Set the images to show in the gallery
-    images = ["liberte-living-lab.jpg", "withoutmodel.jpg"]
+    images = [["liberte-living-lab.jpg", "https://www.liberte.paris"],
+              ["withoutmodel.jpg","http://www.withoutmodel.com/"]]
 
   # [params.call_to_action]
   #   title = "Get Product Updates"
@@ -119,7 +123,7 @@ theme = "vex-hugo"
   #   button_text = "Subscribe"
 
   [params.testimonials]
-    title = "Ils co-organisent"
+    title = "Ils participent"
     [[params.testimonials.blocks]]
       text = "Chercheur en stratégie et co-fondateur de Without Model. Fund The Code car cela permet de donner à voir des projets libres et de mettre en lumière les individus qui les portent."
       name = "Louis David Benyayer"
