@@ -1,4 +1,4 @@
-baseurl = "http://localhost:1313/"
+baseurl = "https://fundthecode.org"
 languageCode = "fr-Fr"
 title = "Fund The Code!"
 tags = ["funding", "free software", "open source", "event"]
@@ -45,7 +45,7 @@ theme = "vex-hugo"
 
   # Features
   [params.features]
-    title = "Pourquoi participer ?"
+    title = "Pourquoi participer ?"
     # [params.features.image]
     #   path = ""
     #   alt = ""
@@ -123,17 +123,23 @@ theme = "vex-hugo"
     [[params.testimonials.blocks]]
       text = "Chercheur en stratégie et co-fondateur de Without Model. Fund The Code car cela permet de donner à voir des projets libres et de mettre en lumière les individus qui les portent."
       name = "Louis David Benyayer"
-      position = "withoutmode.com / @WithoutModel"
+      position = "https://withoutmodel.com"
+      twitter = "@WithoutModel"
       image = "images/ldb.jpg"
+      twitter_url = "https://twitter.com/WithoutModel"
     [[params.testimonials.blocks]]
       text = "Co-dirigeant du Liberté Living-Lab (@Liberte_LL) : tech civique et sociale / entrepreneuriat tech d'intérêt général #SciencesSociales #Economie #Tech #Data"
       name = "Rudy Cambier"
-      position = "liberte.paris / @rudy_cambier"
+      position = "https://www.liberte.paris"
+      twitter = "@rudy_cambier"
+      twitter_url = "https://twitter.com/rudy_cambier"
       image = "images/rc.jpg"
     [[params.testimonials.blocks]]
       text = "Hacktiviste, initiateur des Hackadons, connecteur libriste tous azimuts.  Je participe à Fund The Code pour aider ceux qui font le logiciel libre à expliquer leur démarche et leurs besoins."
       name = "Bastien Guerry"
-      position = "bzg.fr / @bzg2"
+      position = "bzg.fr"
+      twitter = "@bzg2"
+      twitter_url = "https://twitter.com/bzg2"
       image = "images/bg.jpg"
     [params.testimonials.button]
       link = "https://fundthecode.typeform.com/to/eTIYCa"

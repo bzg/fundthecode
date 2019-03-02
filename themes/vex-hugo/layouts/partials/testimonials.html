@@ -13,8 +13,9 @@
               <div class="author-details">
                 <img src="{{ .image }}" alt="">
                 <h4>{{ .name }}</h4>
-                <span>{{ .position }}</span>
-              </div>
+                <a target="new" href={{ .position | markdownify }}>{{ .position }}</a><br/>
+		<a target="new" href={{ .twitter_url }}>{{ .twitter }}</a>
+	      </div>
             </div>
           </div>
           {{- end }}
