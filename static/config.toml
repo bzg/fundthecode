@@ -1,0 +1,158 @@
+baseurl = "https://fundthecode.org"
+languageCode = "fr-Fr"
+title = "Fund The Code!"
+tags = ["funding", "free software", "open source", "event"]
+
+[params]
+  description = "Soirées de dons pour des logiciels libres"
+
+  # Put your custom stylesheets and scripts
+  custom_stylesheets = []
+  custom_scripts = []
+
+  # Additional meta
+  [[params.meta]]
+    name = "Fund The Code"
+    description = "Soirées de dons pour des logiciels libres"
+
+  # Navigation bar informations
+  [params.navbar]
+    logo = "Fund The Code"
+    # [[params.navbar.menu]]
+    #   link = "https://admin.typeform.com/form/XmXL73/create"
+    #   text = "CANDIDATER"
+    [[params.navbar.menu]]
+      link = "https://fundthecode.typeform.com/to/FGRfcl"
+      text = "SPONSORISER"
+    [[params.navbar.menu]]
+      link = "https://fundthecode.typeform.com/to/eTIYCa"
+      text = "JE VIENS !"
+    [[params.navbar.menu]]
+      link = "mailto:contact@fundthecode.org"
+      text = "ÉCRIVEZ-NOUS"
+
+  # Header
+  [params.header]
+    title = "Les logiciels libres ne poussent pas dans les arbres."
+    text = "Nous soutenons le mouvement du logiciel libre en organisant des soirées conviviales où des libristes présentent leurs contributions à un public qui vote pour répartir l'argent de nos sponsors.  **Prochaine soirée le 19 mars 2019 à 19h au [Liberté Living Lab](https://www.openstreetmap.org/#map=19/48.86805/2.35040) !**"
+    [params.header.image]
+      path = "images/fundthecode-logo-vertical-small.png"
+      alt = "Watch"
+    [params.header.button]
+      link = "https://fundthecode.typeform.com/to/eTIYCa"
+      text = "INSCRIPTION GRATUITE ET OBLIGATOIRE POUR LE 19 MARS"
+
+  # Features
+  [params.features]
+    title = "Pourquoi participer ?"
+    # [params.features.image]
+    #   path = ""
+    #   alt = ""
+    # Menu at the left of the image
+    [[params.features.left]]
+      icon = "tf-ion-ios-alarm-outline"
+      title = "Faire découvrir votre projet"
+      text = "Faites découvrir votre projet dans une courte présentation."
+    [[params.features.left]]
+      icon = "tf-ion-ios-bell-outline"
+      title = "Partager votre passion"
+      text = "Expliquez à l'audience pourquoi votre projet est libre et ce que ça vous apporte."
+    [[params.features.left]]
+      icon = "tf-ion-ios-cart-outline"
+      title = "Expliquer vos besoins"
+      text = "Vous cherchez des contributeurs ou des utilisateurs ?  Vous êtes au bon endroit !"
+    # Menu at the right of the image
+    [[params.features.right]]
+      icon = "tf-ion-ios-alarm-outline"
+      title = "Découvrir des projets"
+      text = "Découvrez des projets libres en rencontrant ceux qui les fabriquent !"
+    [[params.features.right]]
+      icon = "tf-ion-ios-bell-outline"
+      title = "Soutenir avec des dons"
+      text = "Vous voulez soutenir le logiciel libre en général mais c'est compliqué ?  Parlons-en."
+    [[params.features.right]]
+      icon = "tf-ion-ios-cart-outline"
+      title = "Contribuer à un projet"
+      text = "Vous voulez contribuer à un projet mais avez besoin de contact humain ?  Rencontrons-nous."
+
+  [params.promo]
+    title = "Rendez-vous le 19 mars 2019 à 19h au Liberté Living Lab"
+    text = "Le prochain événement « Fund The Code » se tiendra au Liberté Living Lab ([9 rue d'Alexandrie, 75002 Paris](https://www.openstreetmap.org/#map=19/48.86805/2.35040)) le 19 mars à partir de 19h."
+    [params.promo.image]
+      path = "images/fundthecode-hand.png"
+      alt = "Watch"
+
+  [params.feature_list]
+    title = "Ce qui nous motive"
+    [[params.feature_list.items]]
+      image = "images/hackadon-1.png"
+      title = "Valoriser les passionnés du libre"
+      text = "Le mouvement du logiciel libre a été initié par Richard M. Stallman au milieu des années 80 car il s'inquiétait de la possible disparition des hackers, ceux qui bricolent et partagent leur code librement.  Aujourd'hui, l'open source est partout en entreprise... mais où sont les bricoleurs ?  Où sont ceux qui font ?"
+      button_link = "https://fundthecode.typeform.com/to/eTIYCa"
+      button_text = "Je viens !"
+    [[params.feature_list.items]]
+      image = "images/hackadon-2.png"
+      title = "Poser le problème de la soutenabilité"
+      text = "Le succès de « l'open source » masqu une réalité : bien des projets sont maintenus par des volontaires... et les modèles économiques de ces projets sont trop fragiles.  Comment prendre soin tous ensemble des mainteneurs et des passionnés du libre ?"
+      button_link = "https://fundthecode.typeform.com/to/FGRfcl"
+      button_text = "Je sponsorise !"
+
+  [params.gallery]
+    title = "Ils financent des soirées Fund The Code"
+    # Set the image directory to use as base
+    directory = "images"
+    # Set the images to show in the gallery
+    images = [["kisio_digital.png","http://www.kisio.org"],
+              ["xwiki.png","https://www.xwiki.com/fr"],
+              ["bluemind.png","https://www.bluemind.net"],
+              ["apidays.png","https://www.apidays.co"]]
+
+  [params.projects]
+    title = "Les projets qui seront présentés le 19 mars"
+    # Set the image directory to use as base
+    directory = "images"
+    # Set the images to show in the gallery
+    images = [["guix.png","https://www.gnu.org/software/guix/"]]
+
+  [params.organizers]
+    title = "Ils organisent des soirées Fund The Code"
+    # Set the image directory to use as base
+    directory = "images/"
+    # Set the images to show in the gallery
+    images = [["liberte-living-lab.jpg", "https://www.liberte.paris"],
+              ["withoutmodel.jpg","http://www.withoutmodel.com/"]]
+
+  # [params.call_to_action]
+  #   title = "Get Product Updates"
+  #   text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  #   placeholder = "Your Email Address Here"
+  #   button_text = "Subscribe"
+
+  [params.testimonials]
+    title = "Ils participent"
+    [[params.testimonials.blocks]]
+      text = "Chercheur en stratégie et co-fondateur de Without Model. Fund The Code car cela permet de donner à voir des projets libres et de mettre en lumière les individus qui les portent."
+      name = "Louis David Benyayer"
+      position = "https://withoutmodel.com"
+      twitter = "@WithoutModel"
+      image = "images/ldb.jpg"
+      twitter_url = "https://twitter.com/WithoutModel"
+    [[params.testimonials.blocks]]
+      text = "Co-dirigeant du Liberté Living-Lab (@Liberte_LL) : tech civique et sociale / entrepreneuriat tech d'intérêt général #SciencesSociales #Economie #Tech #Data"
+      name = "Rudy Cambier"
+      position = "https://www.liberte.paris"
+      twitter = "@rudy_cambier"
+      twitter_url = "https://twitter.com/rudy_cambier"
+      image = "images/rc.jpg"
+    [[params.testimonials.blocks]]
+      text = "Hacktiviste, initiateur des Hackadons, connecteur libriste tous azimuts.  Je participe à Fund The Code pour aider ceux qui font le logiciel libre à expliquer leur démarche et leurs besoins."
+      name = "Bastien Guerry"
+      position = "https://bzg.fr"
+      twitter = "@bzg2"
+      twitter_url = "https://twitter.com/bzg2"
+      image = "images/bg.jpg"
+    [params.testimonials.button]
+      link = "https://fundthecode.typeform.com/to/eTIYCa"
+      text = "REJOIGNEZ-NOUS LE 19 MARS !"
+
+  # Footer uses navbar data
