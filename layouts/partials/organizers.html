@@ -1,0 +1,25 @@
+{{ with .Site.Params.organizers }}
+<section class="gallery">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="heading">
+          <h2>{{ .title }}</h2>
+        </div>
+
+        <div class="gallery-slider">
+          {{- $basePath := relURL .directory }}
+          {{- range $img := .images }}
+          <div class="block">
+            <a target="new" href="{{ $basePath }}/{{ index $img 0 }}"></a>
+          </div>
+          <a href="{{ index $img 1 }}" target="new">
+	    <img class="img-fluid" src="{{ $basePath }}/{{ index $img 0 }}" alt="">
+	  </a>
+          {{- end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
