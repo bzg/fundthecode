@@ -1,0 +1,21 @@
+{{ with .Site.Params.projects }}
+<section class="gallery">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="heading">
+          <h2>{{ .title }}</h2>
+        </div>
+        <div class="gallery-slider">
+          {{- $basePath := relURL .directory }}
+          {{- range $img := .images }}
+          <a href="{{ index $img 1 }}" target="new">
+	    <img width="150px" class="img-fluid" src="{{ $basePath }}/{{ index $img 0 }}" alt="">
+	  </a>
+          {{- end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -107,6 +107,13 @@ tags = ["funding", "free software", "open source", "event"]
               ["bluemind.png","https://www.bluemind.net"],
               ["apidays.png","https://www.apidays.co"]]
 
+  [params.projects]
+    title = "Les projets qui seront présentés le 19 mars"
+    # Set the image directory to use as base
+    directory = "images"
+    # Set the images to show in the gallery
+    images = [["guix.png","https://www.gnu.org/software/guix/"]]
+
   [params.organizers]
     title = "Ils organisent des soirées Fund The Code"
     # Set the image directory to use as base
