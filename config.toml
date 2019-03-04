@@ -117,7 +117,8 @@ tags = ["funding", "free software", "open source", "event"]
               ["claroline.png", "https://www.claroline.net"],
               ["kiwix.png", "https://www.kiwix.org/support"],
               ["pytition.png", "https://github.com/Pytition/pytition"],
-              ["apiplatform.png", "https://api-platform.com"]]
+              ["apiplatform.png", "https://api-platform.com"],
+              ["sugarizer.png", "https://sugarizer.org"]]
 
   [params.organizers]
     title = "Ils organisent des soirées Fund The Code"
