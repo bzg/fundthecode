@@ -22,14 +22,14 @@ tags = ["funding", "free software", "open source", "event"]
     #   link = "https://admin.typeform.com/form/XmXL73/create"
     #   text = "CANDIDATER"
     [[params.navbar.menu]]
-      link = "https://fundthecode.typeform.com/to/FGRfcl"
-      text = "SPONSORISER"
-    [[params.navbar.menu]]
       link = "https://fundthecode.typeform.com/to/eTIYCa"
       text = "JE VIENS !"
     [[params.navbar.menu]]
+      link = "https://fundthecode.typeform.com/to/FGRfcl"
+      text = "SPONSORISER"
+    [[params.navbar.menu]]
       link = "mailto:contact@fundthecode.org"
-      text = "ÉCRIVEZ-NOUS"
+      text = "NOUS ÉCRIRE"
 
   # Header
   [params.header]
