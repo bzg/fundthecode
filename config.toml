@@ -120,7 +120,8 @@ tags = ["funding", "free software", "open source", "event"]
               ["apiplatform.png", "https://api-platform.com"],
               ["sugarizer.png", "https://sugarizer.org"],
               ["wirehub.png", "https://github.com/gawen/wirehub"],
-              ["adaway.png", "https://github.com/AdAway/AdAway/"]]
+              ["adaway.png", "https://github.com/AdAway/AdAway/"],
+              ["materialui.png", "https://material-ui.com/"]]
 
   [params.organizers]
     title = "Ils organisent des soirées Fund The Code"
