@@ -105,7 +105,8 @@ tags = ["funding", "free software", "open source", "event"]
     images = [["kisio_digital.png","http://www.kisio.org"],
               ["xwiki.png","https://www.xwiki.com/fr"],
               ["bluemind.png","https://www.bluemind.net"],
-              ["apidays.png","https://www.apidays.co"]]
+              ["apidays.png","https://www.apidays.co"],
+              ["soge.png","https://www.societegenerale.fr"]]
 
   [params.projects]
     title = "Les projets qui seront présentés le 19 mars"
