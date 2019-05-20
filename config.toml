@@ -34,13 +34,13 @@ tags = ["funding", "free software", "open source", "event"]
   # Header
   [params.header]
     title = "Les logiciels libres ne poussent pas dans les arbres."
-    text = "Nous soutenons le mouvement du logiciel libre en organisant des soirées conviviales où des libristes présentent leurs contributions à un public qui vote pour répartir l'argent de nos sponsors.  **Prochaine soirée le 19 mars 2019 à 19h au [Liberté Living Lab](https://www.openstreetmap.org/#map=19/48.86805/2.35040) !**"
+    text = "Nous soutenons le mouvement du logiciel libre en organisant des soirées conviviales où des libristes présentent leurs contributions à un public qui vote pour répartir l'argent de nos sponsors.  **Retrouvez-nous le 13 juin à 19h au [Liberté Living Lab](https://www.openstreetmap.org/#map=19/48.86805/2.35040) pour discuter de la suite !**"
     [params.header.image]
       path = "images/fundthecode-logo-vertical-small.png"
       alt = "Watch"
     [params.header.button]
-      link = "https://fundthecode.typeform.com/to/eTIYCa"
-      text = "INSCRIPTION GRATUITE ET OBLIGATOIRE POUR LE 19 MARS"
+      link = "https://mensuel.framapad.org/p/fundthecode-la-suite"
+      text = "S'inscrire pour réfléchir à l'organisation de fundthecode.org"
 
   # Features
   [params.features]
@@ -76,8 +76,8 @@ tags = ["funding", "free software", "open source", "event"]
       text = "Vous voulez contribuer à un projet mais avez besoin de contact humain ?  Rencontrons-nous."
 
   [params.promo]
-    title = "Rendez-vous le 19 mars 2019 à 19h au Liberté Living Lab"
-    text = "Le prochain événement « Fund The Code » se tiendra au Liberté Living Lab ([9 rue d'Alexandrie, 75002 Paris](https://www.openstreetmap.org/#map=19/48.86805/2.35040)) le 19 mars à partir de 19h."
+    title = "Les vidéos de la soirée du 19 mars 2019"
+    text = "Retrouvez les [vidéos](https://bzg.fr/fundthecode-videos-19032019.html) des présentations faites lors de la soirée du 19 mars 2019."
     [params.promo.image]
       path = "images/fundthecode-hand.png"
       alt = "Watch"
@@ -109,7 +109,7 @@ tags = ["funding", "free software", "open source", "event"]
               ["soge.png","https://www.societegenerale.fr"]]
 
   [params.projects]
-    title = "Les projets qui seront présentés le 19 mars"
+    title = "Les projets présentés le 19 mars"
     # Set the image directory to use as base
     directory = "images"
     # Set the images to show in the gallery
@@ -162,7 +162,7 @@ tags = ["funding", "free software", "open source", "event"]
       twitter_url = "https://twitter.com/bzg2"
       image = "images/bg.jpg"
     [params.testimonials.button]
-      link = "https://fundthecode.typeform.com/to/eTIYCa"
-      text = "REJOIGNEZ-NOUS LE 19 MARS !"
+      link = "https://mensuel.framapad.org/p/fundthecode-la-suite"
+      text = "PARTICIPEZ !"
 
   # Footer uses navbar data
