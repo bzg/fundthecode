@@ -28,7 +28,7 @@ tags = ["funding", "free software", "open source", "event"]
       link = "https://fundthecode.typeform.com/to/FGRfcl"
       text = "SPONSORISER"
     [[params.navbar.menu]]
-      link = "mailto:contact@fundthecode.org"
+      link = "mailto:bzg@bzg.fr"
       text = "NOUS ÉCRIRE"
 
   # Header
